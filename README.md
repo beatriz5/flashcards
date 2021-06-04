@@ -1,7 +1,5 @@
 # Flashcards
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatriz5&layout=compact)](https://github.com/beatriz5/github-readme-stats)
-
 A stylized page with flashcards, each containing a question on one side and the answer on the other. Hover on the flashcard and the answer will reveal itself. On the front a country on the back its capital.
 
 ## Demonstration
